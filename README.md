@@ -1,5 +1,5 @@
 # Robotics Club Resources
-These are the teaching resources and lessons I made while running my school's robotics club during the last two academic years of my secondary education (2024-2026).
+These are the teaching resources and lessons I made while running my school's robotics club during the last two academic years of my secondary education (2024-2026). All the lesson plans, ideas, and execution of workshop sessions were done by me.
 
 The club was open to students aged 11-18, and the aim was to introduce these students to electronic components, Arduino programming, and other engineering concepts (eg. CAD modelling) through weekly sessions.
 
