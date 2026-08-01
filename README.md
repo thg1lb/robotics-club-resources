@@ -4,8 +4,17 @@ These are the teaching resources and lessons I made while running my school's ro
 The club was open to students aged 11-18, and the aim was to introduce these students to electronic components, Arduino programming, and other engineering concepts (eg. CAD modelling) through weekly sessions.
 
 ## Gallery
+<h3 align="center">Club Poster</h3>
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8c4288b9-8863-41c2-bfc5-4391ddf1081d" width="40%">
+</p>
 
+<h3 align="center">Workshop Examples</h3>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ea17e990-84df-48e0-979e-103d309f719e" width="45%">
+<img src="https://github.com/user-attachments/assets/6ded11bb-e55c-4188-8bdc-76c11b18f4cb" width="45%">
+</p>
 
 ## Topics Covered
 - Transistors
