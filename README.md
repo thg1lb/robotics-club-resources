@@ -1,5 +1,5 @@
 # Robotics Club Resources
-These are the teaching resources and lessons I made while running my school's robotics club during the last two academic years of my secondary education (2024-2026). 
+These are the teaching resources and lessons I created while running my school's robotics club during the last two academic years of my secondary education (2024-2026). 
 
 **My role:** Club lead and instructor; I planned the curriculum, prepared lesson materials, and delivered workshops.
 
