@@ -31,9 +31,9 @@ The club was open to students aged 11-18, and the aim was to introduce these stu
 ## Repo Structure
 |Subfolder| Description|
 | --------- |:--------------:|
-| Slides    |All lesson and open session slides|
-| Resources |Resources found online (sources provided below)|
-| Planning  |Description of my own planning document + blank template|
+| lessons/    |All lesson and open session slides|
+| additional-resources/ |Resources found online (sources provided below)|
+| planning-docs/  |Description of my own planning document + blank template|
 
 ## Sources
 - Instructables (Lesson inspiration and documentation resources): https://www.instructables.com/circuits/projects
