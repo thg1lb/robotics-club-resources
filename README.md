@@ -41,10 +41,10 @@ The club was open to students aged 11-18, and the aim was to introduce these stu
 - Arduino: https://www.arduino.cc/education/
 
 Any other resources within the lessons can be found in the speaker notes on the slides.
-Please note that some websites may not be available within some school networks, hence why downloading the PDFs (such as in the resources subfolder) may be advisable.
+Please note that some websites may be blocked on some school networks.
 
 ## Disclaimer
 
-Unless otherwise stated, the lesson structure, organisation, and original material were created by me. Some presentations, diagrams, code examples, and educational resources are adapted from or reference third-party sources for educational purposes. All rights remain with their respective owners. Additionally, all sources are cited above.
+Unless otherwise stated, the lesson structure, organisation, and original material were created by me. Some presentations, diagrams, code examples, and educational resources are adapted from or reference third-party sources for educational purposes. All rights remain with their respective owners. Additionally, sources are listed in this README or cited in the speaker notes of the relevant slides.
 
 If you are a copyright holder and believe any material has been included inappropriately, please contact me and I will remove or appropriately attribute the content.
